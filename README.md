@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hdinh77 and currently a Computer Science student at UC Santa Barbara
 - 👀 I’m interested in Software Engineering and Full-Stack Web Development
-- 🌱 I’m currently learning everything I possibly can!
 - 📫 How to reach me: hdinh77.github.io
 
 <!---
